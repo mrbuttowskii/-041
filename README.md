@@ -40,4 +40,6 @@ SQL-команды:
 
 Выбрать себя из users по фамилии
 
-python
+python шпора.ipynb- полезные команды python
+
+sql+.py-база данных в python
