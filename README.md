@@ -55,5 +55,13 @@ $$A \vee B \wedge C
  $$v_1k=\sqrt{gR}=\\sqrt{\frac{GM}{R}}$$
  
  
+ Центр масс тела.Центр масс системы материаальных точек:
+ 
+ 
  $$\overrightarrow{r_{ц.м}}=\frac{m_1\overrightarrow{r_1}+m_2\overrightarrow{r_2}+\dots}{m_1+m_2+\dots}$$
+ 
+ Косинус двойного угла:
+ 
+ 
+ $$\cos (2\phi) = \cos^2 \phi - \sin^2 \phi$$
  
