@@ -52,7 +52,7 @@ sql+.py-база данных в python\
  $$v_1k=\sqrt{gR}=\\sqrt{\frac{GM}{R}}$$
  
  
- Центр масс тела.Центр масс системы материаальных точек:
+ Центр масс тела. Центр масс системы материальных точек:
  
  
  $$\overrightarrow{r_{ц.м}}=\frac{m_1\overrightarrow{r_1}+m_2\overrightarrow{r_2}+\dots}{m_1+m_2+\dots}$$
