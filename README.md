@@ -63,3 +63,4 @@ sql+.py-база данных в python\
  $$\cos (2\varphi) = \cos^2 \varphi - \sin^2 \varphi$$
  
 
+![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114459378/200474922-726e54b0-9f8e-4b90-8981-e0a24c1fbb9c.png)
