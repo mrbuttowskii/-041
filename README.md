@@ -49,5 +49,7 @@ $$A \vee B \wedge C
 \bar D \forall E \exists F \vdash G \Longleftarrow \\
  H \Longleftrightarrow I  \leftrightarrow K$$
  
+ Первая космическая скорость:
+ 
  
  $$v_1k=\sqrt{gR}=\\sqrt{\frac{GM}{R}}$$
