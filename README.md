@@ -50,4 +50,4 @@ $$A \vee B \wedge C
  H \Longleftrightarrow I  \leftrightarrow K$$
  
  
- $$\sqrt[2]{gR}=\sqrt[2]{GM:R}$$
+ $$\sqrt[2]{gR}=\\sqrt{\frac{GM}{R}}$$
