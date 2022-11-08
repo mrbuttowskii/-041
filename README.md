@@ -45,9 +45,6 @@ python шпора.ipynb- полезные команды python
 sql+.py-база данных в python\
 
 
-$$A \vee B \wedge C 
-\bar D \forall E \exists F \vdash G \Longleftarrow \\
- H \Longleftrightarrow I  \leftrightarrow K$$
  
  Первая космическая скорость:
  
