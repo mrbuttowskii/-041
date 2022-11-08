@@ -50,4 +50,4 @@ $$A \vee B \wedge C
  H \Longleftrightarrow I  \leftrightarrow K$$
  
  
- $$\sqrt[a]{b}$$
+ $$\sqrt[2]{gR}$$
