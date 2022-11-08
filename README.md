@@ -50,4 +50,4 @@ $$A \vee B \wedge C
  H \Longleftrightarrow I  \leftrightarrow K$$
  
  
- $$v_1k=\sqrt[2]{gR}=\\sqrt{\frac{GM}{R}}$$
+ $$v_1k=\sqrt{gR}=\\sqrt{\frac{GM}{R}}$$
