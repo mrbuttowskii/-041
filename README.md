@@ -60,5 +60,5 @@ sql+.py-база данных в python\
  Косинус двойного угла:
  
  
- $$\cos (2\phi) = \cos^2 \phi - \sin^2 \phi$$
+ $$\cos (2\varphi) = \cos^2 \varphi - \sin^2 \varphi$$
  
