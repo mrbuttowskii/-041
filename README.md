@@ -55,5 +55,5 @@ $$A \vee B \wedge C
  $$v_1k=\sqrt{gR}=\\sqrt{\frac{GM}{R}}$$
  
  
- $$\overrightarrow{r_ц.м}=\frac{m_1\overrightarrow{r_1}+m_2\overrightarrow{r_2}+\dots}{m_1+m_2+\dots}
+ $$\overrightarrow{r_ц.м}=\frac{m_1\overrightarrow{r_1}+m_2\overrightarrow{r_2}+\dots}{m_1+m_2+\dots}$$
  
