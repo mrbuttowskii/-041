@@ -62,4 +62,3 @@ sql+.py-база данных в python\
  
  $$\cos (2\varphi) = \cos^2 \varphi - \sin^2 \varphi$$
  
-
