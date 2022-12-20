@@ -65,3 +65,6 @@ sql+.py-база данных в python\
 
 
 ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114459378/200475125-74ca7e0c-06f0-405f-b07d-f360292c7bf3.png)
+
+  
+![mermaid-diagram-2022-12-20-111106](https://user-images.githubusercontent.com/114459378/208582143-b6e0fb7c-ca7a-42c5-816b-d154f0527c2d.png)
