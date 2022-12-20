@@ -42,7 +42,8 @@ SQL-команды:
 
 python шпора.ipynb- полезные команды python
 
-sql+.py-база данных в python\
+sql+.py-база данных в python
+viktorina.py-викторина\
 
 
  
