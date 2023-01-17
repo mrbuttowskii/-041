@@ -31,6 +31,8 @@
 
 
 
+
+
 for i in range(1,100):
     chislo=''
     num=(bin(i)[2:])
