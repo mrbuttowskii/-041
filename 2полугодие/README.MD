@@ -30,7 +30,7 @@
 |27||
 
 
-
+|||python
 for i in range(1,100):
     chislo=''
     num=(bin(i)[2:])
@@ -42,6 +42,7 @@ for i in range(1,100):
     if int(chislo,2)>40:
         print (i, int(chislo,2))
         break
+|||
 
 from turtle import *
 left(90)
