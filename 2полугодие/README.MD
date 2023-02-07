@@ -71,3 +71,17 @@ for a in range (1,8):
                     if s.count('6')==1 and s.index('6')<len(s)-1 and s.index('6')>0 and int(s[s.index('6')-1])%2==0 and int(s[s.index('6')+1])%2==0:
                         count+=1
 print(count)
+
+
+
+
+8
+from itertools import product
+for i in range(2,6):
+    b=product('12',repeat=i)
+    for n in b:
+        a=12
+        for x in n:
+            if x=='1':a-=1
+            else:a*=7
+        if a==489:print(n)
